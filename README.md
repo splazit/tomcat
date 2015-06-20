@@ -20,4 +20,4 @@ $ docker run -d -p 8080:8080 -v [host_path_webapps_dir]:/tomcat/webapps -v [host
 ```
 Once you have run the above command, you should be able to connect to your http://localhost:8080/
 
-Feel free to leave comments/suggestions
+Feel free to leave any suggestions.
